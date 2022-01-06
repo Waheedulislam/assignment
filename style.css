@@ -73,15 +73,26 @@ width: 60%;
     padding-left: 4%;
 
 }
-.button{
-    text-decoration: none;
-    background-image: linear-gradient( orange,tomato );
-    padding: 10px 10px;
-    color: white;
-    font-weight: 700;
-border-radius: 7%;
-}
 .padding-top{
     padding-top: 7%;
     padding-right: 5%;
+}
+.fifth-waid-text{
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 9%;
+}
+.black-color{
+    color: black;
+}
+.sixth-width img{
+    width: 40%;
+    padding-left: 35%;
+}
+.text-center{
+    text-align: center;
+    background-color: rgb(11, 11, 31);
+}
+.whait-color{
+    color: white;
 }
