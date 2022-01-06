@@ -38,10 +38,12 @@ text-align: center;
     display: flex;
 }
 .second-width{
-    width: 60%;
+    width: 70%;
     justify-content: space-around;
-    padding-left: 6%;
+    padding: 3% 1% 2% 6%;
+
 }
+
 .second-width img{
 width: 60%;
 }
@@ -59,4 +61,27 @@ width: 60%;
     background-color: rgb(250, 231, 250);
     border-radius: 7%;
     padding: 3% 3%;
+}
+.third-width{
+    width: 50%;
+    padding-right: 8%;
+    padding-top: 4%;
+
+}
+.third-width img{
+    width: 100%; 
+    padding-left: 4%;
+
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( orange,tomato );
+    padding: 10px 10px;
+    color: white;
+    font-weight: 700;
+border-radius: 7%;
+}
+.padding-top{
+    padding-top: 7%;
+    padding-right: 5%;
 }
